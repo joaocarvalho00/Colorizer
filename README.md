@@ -7,4 +7,4 @@ http://iizuka.cs.tsukuba.ac.jp/projects/colorization/data/colorization_sig2016.p
 
 I had problems when training this algorithm because the model proposed by the authors is way beyond my computing capabilities because I was trying to train this in my laptop and each epoch took increasingly more time with the first one being like 10 hours. 
 
-Even so I learned a bit abaout computer vision and about color spaces as I had to work with different color spaces ( LAB and RGB ) and try to understand what each one of them represented.
+Even so I learned a bit about computer vision and about color spaces as I had to work with different color spaces ( LAB and RGB ) and try to understand what each one of them represented.
