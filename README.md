@@ -9,4 +9,4 @@ I had problems when training this algorithm because the model proposed by the au
 
 Even so I learned a bit about computer vision and about color spaces as I had to work with different color spaces ( LAB and RGB ) and try to understand what each one of them represented.
 
-The testing.ipynb file has one example of the algorithm trying to output an image in color
+The testing.ipynb file has one example of the algorithm trying to output an image in color, it is possible to see some splashes of color in the sky, the water and a little bit on the trees.
